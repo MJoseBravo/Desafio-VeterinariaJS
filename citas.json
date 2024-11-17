@@ -1,0 +1,18 @@
+{
+  "registros": [
+    {
+      "nombre": "Benito",
+      "edad": "dos",
+      "tipo": "perro",
+      "color": "blanco",
+      "enfermedad": "vomitos"
+    },
+    {
+      "nombre": "Juanito",
+      "edad": "3 meses",
+      "tipo": "perro",
+      "color": "blanco",
+      "enfermedad": "diarrea"
+    }
+  ]
+}
